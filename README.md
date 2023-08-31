@@ -7,7 +7,7 @@ Door Locker Security System is an Embedded Systems Project which aims to unlock 
 4. If the password entered is matched with the one saved in external EEPROM, so the user can access the option that selected.  
 5. If the password entered three times wrongly, then the system will give an error to the user.
 
-Programming Language: C Programming 
+Programming Language: C Programming -
 Target: AVR ATMega32 Microcontroller
 
 Drivers: 
